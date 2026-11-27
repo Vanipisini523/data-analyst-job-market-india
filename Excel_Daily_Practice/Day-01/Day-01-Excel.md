@@ -76,4 +76,3 @@ Example formula:
 
 **Status:** Day 01 Completed ✅
 
-**Next:** Day 02 – Excel Data Cleaning and Data Preparation.
